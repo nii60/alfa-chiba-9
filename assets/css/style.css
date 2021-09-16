@@ -239,11 +239,11 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #3399ff;
+  background-color: #33ccff;
 }
 
 .bg-color--subcolor {
-  background-color: #3399ff;
+  background-color: #33ccff;
 }
 
 .bg-color--gray {
@@ -284,7 +284,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #3399ff;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #39b54a;
+  background-color: #3399ff;
 }
 
 .section-title--story {
